@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\HP\source\repos\lab 6.4 r\UnitTest1\UnitTest1.cpp(22,65): warning C4305: аргумент: усечение из "int" в "bool"
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+     Создается библиотека C:\Users\HP\source\repos\lab 6.4 r\x64\Debug\UnitTest1.lib и объект C:\Users\HP\source\repos\lab 6.4 r\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\HP\source\repos\lab 6.4 r\x64\Debug\UnitTest1.dll
